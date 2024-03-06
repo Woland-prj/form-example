@@ -16,12 +16,12 @@
 		}
 	}
 	.text {
-		@apply m-48 text-white text-center w-1/4;
+		@apply m-48 text-white text-center w-1/4 font-bold;
 		h1 {
-			@apply text-9xl font-bold;
+			@apply text-9xl;
 		}
 		h2 {
-			@apply text-5xl font-bold;
+			@apply text-5xl;
 		}
 	}
 	.content {
